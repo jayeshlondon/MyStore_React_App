@@ -39,7 +39,7 @@ You will also see any lint errors in the console.
 
 
 ### `How App works:`
-	When the TJX_React_Exercise loads in the browser, user gets Product List in the Home page, product data is coming from the Aliexpress RapidAPI (live data).
+	When the MyStore React App loads in the browser, user gets Product List in the Home page, product data is coming from the Aliexpress RapidAPI (live data).
 	there is search-bar where user can put search string and search product list is shown below the searchbar.Pagination button is shown as the bottom of the productlist on home page.
 	also routing between HOME/CONTACT/ABOUT pages.
 
@@ -62,8 +62,7 @@ You will also see any lint errors in the console.
 4.	There is All Products button as well so user has faciliti to see all products again aftter pagination.
 
 ### `ADD ON:-`
-1.	React-Router library has been used, so it has three pages all together. It shows on browser with path and routing. HOME/Contct/Aout/
-2.	TJX_React_Exercise has Navbar with TJX Logo which is seen on every page of the web app.
+1.	React-Router library has been used, so it has three pages all together. It shows on browser with path and routing. HOME/Contct/About/
 2.	web app is fully responsive, Laptop screen/Pad screen/ Mobile screen.
 3.	Flavour of CSS/Styled Component/ Material UI.
 4.	used env process variable to hide the API key for security reasons.
